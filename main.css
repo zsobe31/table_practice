@@ -8,12 +8,13 @@
   font-size: 28px;
   font-weight: bold;
   border-collapse: collapse;
+  font-family: fantasy;
 }
 
 td {
-  border: 1px solid black;
-  width: 100px;
-  height: 100px;
+  border: 2px solid black;
+  width: 200px;
+  height: 200px;
 }
 
 #red {
@@ -47,4 +48,17 @@ td {
 .blue-white {
   background-color: blue;
   color: white;
+}
+
+
+#captain {
+  width: 200px;
+  height: 400px;
+  border: 0;
+}
+
+#iron {
+  width: 400px;
+  height: 200px;
+  border: 0;
 }
